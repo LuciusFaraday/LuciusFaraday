@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LuciusFaraday
+- 🌱 I’m currently learning Go :D
